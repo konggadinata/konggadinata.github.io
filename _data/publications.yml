@@ -1,6 +1,5 @@
 featured:
-- {name: 'Quantum Bayesian Inference in Quasiprobability Representations', url: 'https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.4.020352'}
 
 index:
-
+- {name: 'Quantum Bayesian Inference in Quasiprobability Representations', url: 'https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.4.020352'}
 - {name: 'Simulation of quantum nonlocality of local negative bits', url: 'https://journals.aps.org/pra/abstract/10.1103/PhysRevA.108.032204'}

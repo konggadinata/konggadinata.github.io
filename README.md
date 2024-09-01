@@ -1,4 +1,8 @@
-# academic
+# ReadME
+
+Welcome! This is a page for [my personal website](https://konggadinata.github.io)
+
+This page and its theme is pulled from [https://github.com/LeNPaul/academic](https://github.com/LeNPaul/academic)
 
 ### A Jekyll theme for academia
 
