@@ -1,4 +1,4 @@
 url: "https://konggadinata.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "https://konggadinata.github.io" # the subpath of your site, e.g. /blog
-title: "Kelvin Onggadinata - Personal Website" # the name of your site, e.g. ACME Corp.
-description: "Personal website of Kelvin Onggadinata"
+title: "Kelvin Onggadinata" # the name of your site, e.g. ACME Corp.
+description: "Personal website"
