@@ -5,6 +5,8 @@ title: "Publications"
 
 # **Publications**
 
+---
+
 1. **Communication cost in simulating unknown entangled states**
    - *Kelvin Onggadinata*, Pawel Kurzynski, and Dagomir Kaszlikowski
    - [Physical Review A **110** (3), 032623 (2024)](https://doi.org/10.1103/PhysRevA.110.032623)
